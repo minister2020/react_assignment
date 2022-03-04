@@ -16,8 +16,8 @@ const ForgetPassword = ()=>{
 </nav>
 
 <div className="container-fluid bg-gray py-5">
-<div class="container">
-  <div class="row">
+<div class="container ">
+  <div class="row bg-white">
     <div class="col"> </div>
     <div class="col">
     <h1 className="text-bold fs-1">Find Your Account</h1><hr/>

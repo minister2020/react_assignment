@@ -7,11 +7,13 @@ import reportWebVitals from './reportWebVitals';
 // import Login from './components/Login'
 // import Register from './components/Register'
 // import Headers from './components/Headers'
-import ForgetPassword from './Assignment/ForgetPassword'
+// import ForgetPassword from './Assignment/ForgetPassword'
+// import Cards from './components/Cards'
+import Builds from './Assignment2/Builds'
 
 ReactDOM.render(
   <React.StrictMode>
-    <ForgetPassword />
+    <Builds />
   </React.StrictMode>,
    document.getElementById('root')
 );
